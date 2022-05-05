@@ -1,5 +1,5 @@
 
-## use print(ss[::-1])
+
 def substr(word,index,length):
   """
   prints special

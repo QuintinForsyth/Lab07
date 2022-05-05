@@ -8,6 +8,7 @@ def get_name():
 
 name = get_name()
 name_length = len(name)
+
 for i in range(name_length):
   line = ""
   count = -1
